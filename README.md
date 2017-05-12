@@ -1,6 +1,6 @@
-# PROG 02: Represent!
+# Represent!
 
-Browse info about your representatives and the 2012 vote on your Android smartwatch and phone.
+Browse info about your representatives and the 2012 vote on your Android smartwatch and phone. An warmup project done for UC Berkeley's CS 160. 
 
 ## Screenshots
 
@@ -8,7 +8,7 @@ Browse info about your representatives and the 2012 vote on your Android smartwa
 
 ## Demo Video
 
-See [walkthrough] (https://youtu.be/uC854dKcbIk)
+See [walkthrough](https://youtu.be/uC854dKcbIk)
 
 ## Authors
 
