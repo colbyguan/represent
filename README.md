@@ -1,19 +1,18 @@
 # PROG 02: Represent!
 
-Browse info about your representatives and the 2012 vote on your smartwatch and phone.
+Browse info about your representatives and the 2012 vote on your Android smartwatch and phone.
 
-## Authors
+## Screenshots
 
-Colbert Guan ([colbyguan@berkeley.edu](mailto:colbyguan@berkeley.edu))
+| <img src="screenshots/phonelogin.png" height="400" alt="Screenshot"/> | <img src="screenshots/phonemain.png" height="400" alt="Screenshot"/> | <img src="screenshots/phonedetail.png" height="400" alt="Screenshot"/> | <img src="screenshots/watchmain.png" height="200" alt="Screenshot"/> | <img src="screenshots/watchdetail.png" height="200" alt="Screenshot"/>
 
 ## Demo Video
 
 See [walkthrough] (https://youtu.be/uC854dKcbIk)
 
-## Screenshots
+## Authors
 
-<img src="screenshots/phone.png" height="400" alt="Screenshot"/>
-<img src="screenshots/watch.png" height="200" alt="Screenshot"/>
+Colbert Guan ([colbyguan@berkeley.edu](mailto:colbyguan@berkeley.edu))
 
 ## Acknowledgments
 
